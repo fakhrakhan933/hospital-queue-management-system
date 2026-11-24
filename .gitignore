@@ -1,0 +1,11 @@
+# System and Editor Files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+cookie*.txt
+
+# Temporary / Scratch files
+scratch/
+tmp/
+*.tmp
